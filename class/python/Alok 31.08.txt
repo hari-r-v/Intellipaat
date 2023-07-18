@@ -1,0 +1,23 @@
+
+00:49:59	Alok Yadav:	https://drive.google.com/drive/folders/1SGQhFaapYC_H95uItZhiI6YlgxonWkeY?usp=sharing
+
+01:04:04	Alok Yadav:	https://drive.google.com/file/d/1RmQq7bjrob9OaQ5YRukYFta7433-1mgk/view?usp=sharing
+
+01:07:38	Alok Yadav:	https://drive.google.com/file/d/1RmQq7bjrob9OaQ5YRukYFta7433-1mgk/view?usp=sharing
+
+02:34:01	Alok Yadav:	###Tasks to be performed:
+
+1. Plot a histogram for the column ‘wt’.
+
+> a. Map the ‘wt’ onto the x-axis.
+
+> b. Provide the x-axis label as ‘weight of the cars’.
+
+> c. Provide the y-axis label as ‘Count’
+
+> d. Set the number of bins as 30.
+
+> e. Set the title as ‘Histogram for the weight values
+
+
+02:45:08	Alok Yadav:	https://drive.google.com/file/d/1Gup79P-grw_3f4Z3OexXeMo_1h-jlRVp/view?usp=sharing
