@@ -1,0 +1,51 @@
+Machine Learning:
+
+1. Supervised -> Reg (cont) and Classification (categorical)
+2. Un-Supervised -> Clustering and Dimensionality reduction
+
+Note:
+-> In real world, for the raw dataset, you have to implement
+   some unsupervised algo before implementing a supervised algo
+
+Dimensionality reduction (topic):
+
+eg: consider we have 64 columns --> reducing as much as possible
+
+1. Used to reduce the dimension of the dataset
+2. So that the model performance will increase
+3. It can be done in multiple ways
+
+Algos:
+
+1. PCA -> tues: theory, wed: hands-on
+2. LDA -> thu: theory, fri: hands-on
+
+PCA:
+
+1. principal component analysis
+2. Unsupervised algo
+
+Basic structure of supervised algo:
+
+1. fit(x_train,y_train)
+2. predict(x_test)
+3. accuracy(y_pred, y_test)
+
+Basic structure of un-supervised algo:
+
+1. fit(indep_data)
+2. new dataset will be used for supervised algo
+
+Steps to be followed to implement PCA:
+
+1. Standardize the values (StandardScaler) --> Z score
+2. Covariance matrix
+3. ev (scalars) and evv (vectors)
+4. percentage of variance --> (scree plot)
+5. select those no.of columns using PCA --> model building
+
+-> we will get the dimension reduced dataset
+-> upon this new dataset, we can implement either
+   a classification algo or a reg algo depending on the
+   target values present.
+
